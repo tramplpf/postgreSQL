@@ -1,0 +1,12 @@
+
+
+订阅postgreSQL的邮件列表：
+https://lists.postgresql.org/
+
+
+postgreSQL的在线资源：
+https://www.postgresql.org/docs/online-resources/
+
+
+github上面关于postgreSQL 的资料汇总(awesome)
+https://github.com/dhamaniasad/awesome-postgres
